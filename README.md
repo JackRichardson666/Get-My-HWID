@@ -36,4 +36,4 @@ Copyright © 2021 [jack richadson](https://github.com/JackRichardson666).<br />
 This project is [GNU](https://www.gnu.org/licenses/gpl-3.0.ru.html) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This module was created with ❤️ by [jack richardson](https://github.com/JackRichardson666/)_
