@@ -33,7 +33,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [jack richadson](https://github.com/JackRichardson666).<br />
-This project is [GNU](https://www.gnu.org/licenses/gpl-3.0.ru.html) licensed.
+This project is [GNU](https://github.com/JackRichardson666/Get-My-HWID/blob/main/LICENSE) licensed.
 
 ***
 _This module was created with ❤️ by [jack richardson](https://github.com/JackRichardson666/)_
