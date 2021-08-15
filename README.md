@@ -27,6 +27,7 @@ throw it over gmcl_getmyhwid_win32.dll/gmcl_getmyhwid_win64.dll to the lua/bin f
 👤 **jack richadson**
 
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
+* Discord: [https://discord.gg/nThzkpHgh3]
 
 ## 🤝 Contributing
 
