@@ -16,9 +16,11 @@
 throw it over gmcl_evenhwid_win32.dll/gmcl_evenhwid_win64.dll to the lua/bin folder of your Garry's mod
 ```
 
-## dw
+## 🔍 Link's
 
-### 🏠 [vt(x32)](https://www.virustotal.com/gui/file/fabebb98d49b976ed5d348c8967d9190674419033a84a286c68f7cc250061e3d/detection)
+### 🦠 [vt(x32)](https://www.virustotal.com/gui/file/18d0eac7c8cf06e813c739ae6c907bcbeb340ed8f87d28e3f08d518b21be49a9/detection)
+### 🦠 [vt(x64)](https://www.virustotal.com/gui/file/14e0af061b568eeed3d5dc02fdb3f952d0dba4554112e9783d5dfab5d05e3330/detection)
+### 🔅 [dw(releases)](https://github.com/JackRichardson666/Get-My-HWID/releases)
 
 ## Author
 
