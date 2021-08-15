@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to JackRichardson666 👋</h1>
+<h1 align="center">Welcome to Get-My-HWID 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
   <a href="https://www.gnu.org/licenses/gpl-3.0.ru.html" target="_blank">
