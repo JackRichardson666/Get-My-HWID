@@ -8,7 +8,7 @@
 
 > module for getting the hwid of your computer
 
-### 🏠 [Homepage](Made by jack richadson)
+### 🏠 Homepage
 
 ## Install
 
