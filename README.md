@@ -13,7 +13,7 @@
 ## Install
 
 ```lua
-throw it over gmcl_evenhwid_win32.dll/gmcl_evenhwid_win64.dll to the lua/bin folder of your Garry's mod
+throw it over gmcl_getmyhwid_win32.dll/gmcl_getmyhwid_win64.dll to the lua/bin folder of your Garry's mod
 ```
 
 ## 🔍 Link's
