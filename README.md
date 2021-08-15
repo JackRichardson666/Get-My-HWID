@@ -12,8 +12,8 @@
 
 ## Install
 
-```sh
-npm install
+```lua
+throw it over gmcl_evenhwid_win32.dll/gmcl_evenhwid_win64.dll to the lua/bin folder of your Garry's mod
 ```
 
 ## Author
